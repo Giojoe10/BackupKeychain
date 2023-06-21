@@ -1,0 +1,15 @@
+{
+    "gamelist":[
+        {
+            "title":"Risk of Rain 2",
+            "path":"C:/Games/RoR2/Saves",
+            "image":"https://upload.wikimedia.org/wikipedia/en/c/c1/Risk_of_Rain_2.jpg"
+        },
+        {
+            "title":"The Elder Scrolls V: Skyrim",
+            "path":"C:/Steam/common/Skyrim/savedata",
+            "image":"https://th.bing.com/th/id/R.146a4f80ed28060c4b06603fb397a3fd?rik=P0%2bTePsfeLhU2Q&riu=http%3a%2f%2ffluffrick.files.wordpress.com%2f2011%2f09%2fskyrim.jpg&ehk=ycehnqTtEOxXzBKCrbR8nWAPMyMBsTnnEC%2bODyW%2fiHs%3d&risl=&pid=ImgRaw&r=0"
+
+        }
+    ]
+}
